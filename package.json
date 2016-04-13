@@ -1,0 +1,16 @@
+{
+  "name": "rei",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "readme": "## A super small DOM manipulation lib for [cognition-framework](https://www.npmjs.com/package/cognition-framework)\n",
+  "readmeFilename": "README.md",
+  "_id": "rei@1.0.3",
+  "_shasum": "e8cdf7e871cabc10749071bd418ff8b7971b4026",
+  "_from": "rei@*"
+}
